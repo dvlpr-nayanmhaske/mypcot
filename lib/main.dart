@@ -16,7 +16,7 @@ class MYPCOT extends StatelessWidget {
 
       builder: (context, child) {
         return MaterialApp.router(
-          routerConfig: goRouter,
+          routerConfig: router,
           debugShowCheckedModeBanner: false,
         );
       },

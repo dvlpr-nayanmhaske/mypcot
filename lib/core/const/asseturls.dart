@@ -17,8 +17,12 @@ class AssetUrls {
   static String options = "assets/icons/options.svg";
   static String orders = "assets/icons/orders-illustration-image.svg";
   static String people = "assets/icons/people.svg";
+  static String bottomnav = "assets/icons/Subtract.svg";
   static String search = "assets/icons/search.svg";
-  static String igProfile = "assets/images/profile.jpg";
+  static String igProfile = "assets/images/ProfileImg.png";
+  static String igprofileImg1 =
+      "assets/images/Elon_Musk_Royal_Society.jpg.webp";
+  static String igprofileImg2 = "assets/images/samAltmanImg.jpg";
   static String subscription =
       "assets/icons/subscriptions-illustration-image.svg";
 }
